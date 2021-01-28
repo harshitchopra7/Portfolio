@@ -11,7 +11,7 @@ function Intro() {
         <div className="intro">
             <div className="intro_div">
                 <div className="intro_left">
-                    <p className="intro_description">Hi! My name is Harshit Chopra and I am an avid web developerrr.</p>
+                    <p className="intro_description">Hi! My name is Harshit Chopra and I am an avid web developer.</p>
                     <div>
                         <a href="https://www.linkedin.com/in/harshit-chopra-b98a94189/" target="_blank" rel="noreferrer"><img className="logos" src={linkedin} alt="" /></a>
                         <a href="mailto:chopraharshit2000@gmail.com"><img className="logos" src={gmail} alt="" /></a>
