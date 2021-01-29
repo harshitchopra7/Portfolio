@@ -10,5 +10,16 @@
 }
 .project_description {
     text-align: center;
-    padding: 0px 100px;
+    padding: 10px 200px;
+}
+.color_coral {
+    color: coral;
+}
+.project_description > p{
+    margin: 30px;
+    text-align: justify;
+}
+.color_blue {
+    color: #000b18;
+    text-decoration: none;
 }
